@@ -1,0 +1,88 @@
+{
+  "modelName": "metallicRoughnessPbrMaterial",
+  "name": "color3",
+  "identifier": "metallicRoughnessPbrMaterial:96538-2b2aadf4-d1a5-47e6-939e-63f09b300a3c",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "baseColorFactor": "0xfff3e012",
+  "baseColorTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "blendMode": "alpha",
+  "colorEncoding": "srgb",
+  "cullMode": "back",
+  "diffuseEnvironmentTextureTransform": {
+    "rotationX": 0,
+    "rotationY": 0,
+    "rotationZ": 0
+  },
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "emissiveEnabled": false,
+  "emissiveFactor": "0xff000000",
+  "emissiveTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "environmentEnabled": false,
+  "importIssues": {},
+  "isBaseColorTextureIdentifierEnabled": false,
+  "isDiffuseEnvironmentTextureIdentifierEnabled": false,
+  "isDiffuseTextureIdentifierEnabled": false,
+  "isEmissiveTextureIdentifierEnabled": false,
+  "isMetallicRoughnessTextureIdentifierEnabled": false,
+  "isNormalTextureIdentifierEnabled": false,
+  "isOcclusionTextureIdentifierEnabled": false,
+  "isSpecularEnvironmentTextureIdentifierEnabled": false,
+  "metallicFactor": 0,
+  "metallicRoughnessTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "normalTextureScale": 1,
+  "normalTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "occlusionStrength": 0,
+  "occlusionTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "readDepth": true,
+  "roughnessFactor": 0,
+  "specularEnvironmentTextureTransform": {
+    "rotationX": 0,
+    "rotationY": 0,
+    "rotationZ": 0
+  },
+  "transparency": 1,
+  "vertexColorEnabled": false,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
